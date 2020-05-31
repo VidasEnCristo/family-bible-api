@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FamilyBibleApi", "FamilyBibleApi\FamilyBibleApi.csproj", "{E9AB64B7-DD58-4F80-902E-FC5508D1EA6F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9AB64B7-DD58-4F80-902E-FC5508D1EA6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9AB64B7-DD58-4F80-902E-FC5508D1EA6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9AB64B7-DD58-4F80-902E-FC5508D1EA6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9AB64B7-DD58-4F80-902E-FC5508D1EA6F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD39F89B-13F0-41E0-A7B2-65BC9964F020}
+	EndGlobalSection
+EndGlobal
